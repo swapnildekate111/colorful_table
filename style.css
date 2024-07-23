@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+table {
+    width: 1000px;
+    margin: auto;
+}
+
+.day {
+    width: 17%;
+}
+
+.blank {
+   width: 10%;
+}
+
+table, th, td {
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+/* Colors */
+
+.green {
+    background-color: lightgreen;
+}
+
+.bisque {
+    background-color: bisque;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.gray {
+    background-color: lightgray;
+}
